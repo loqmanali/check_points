@@ -12,7 +12,7 @@
 Add this to your package's pubspec.yaml file:
 ``` yaml
 dependencies:
-  status_change: ^[latest_version]
+  check_points: ^[latest_version]
 ```
 
 #### 2. Install it
@@ -28,7 +28,7 @@ Alternatively, your editor might support flutter pub get. Check the docs for you
 #### 3. Import it
 Now in your Dart code, you can use:
 ``` dart
-import 'package:status_change/status_change.dart';
+import 'package:check_points/check_points.dart';
 ```
 
 ## Basic Usage
