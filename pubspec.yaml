@@ -1,7 +1,8 @@
 name: check_points
-description: A new Flutter project.
+description: To ba able to show Time line.
 version: 0.0.1
-homepage:
+author: Loqman Ali<grahyy1@gmail.com>
+homepage: https://github.com/loqmanali/check_points.git
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
